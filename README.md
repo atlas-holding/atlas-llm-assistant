@@ -1,6 +1,6 @@
-# ${{ values.name }}
+# atlas-llm-assistant
 
-${{ values.description }}
+atlas-llm-assistant service
 
 ## Stack
 - Python · FastAPI · LiteLLM Gateway
